@@ -20,7 +20,7 @@ Hiermit möchte ich ausdrücklich darauf hinweisen, dass ich das eigenständige 
 Programm: Visual Studio Code
 
 Link zum Moodle Raum:
-[Hier der Link zum ADs Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=9200)
+[Hier der Link zum Cg1 Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=9200)
 
 
 
